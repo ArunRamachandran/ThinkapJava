@@ -1,6 +1,6 @@
 // Java code to learn about basic floating point variables, Type casting & java methods
 
-class Double {
+class floatingPoint {
 
 	public static void main(String[] args) {
 		
