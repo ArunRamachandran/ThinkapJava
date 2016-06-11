@@ -1,1 +1,1 @@
-# My solution to ThinkJava - How to think like a computer scientist 
+# My solution to ThinkJava 
